@@ -33,7 +33,6 @@ This model is trained on the CIFAR-10 dataset, which consists of the following c
 
 
 
-Now, open http://127.0.0.1:8000/ in your browser and test the image classifier!
 📂 Project Structure
 
 ├── classifier/             # Django app for classification
