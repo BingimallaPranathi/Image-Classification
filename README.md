@@ -32,15 +32,3 @@ This model is trained on the CIFAR-10 dataset, which consists of the following c
     Dependencies: Pillow, NumPy, Joblib
 
 
-
-📂 Project Structure
-
-├── classifier/             # Django app for classification
-│   ├── templates/          # HTML files
-│   │   ├── upload.html     # Upload form UI
-│   ├── views.py            # Backend logic for image classification
-│   ├── urls.py             # URL routing
-├── static/                 # Static assets (CSS, JS, images)
-├── classifier/model.pkl    # Trained CIFAR-10 model
-├── manage.py               # Django management script
-├── requirements.txt        # Project dependencies
